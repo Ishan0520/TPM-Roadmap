@@ -44,7 +44,7 @@ This **Learning Dashboard** is designed to help me build a **comprehensive under
 ---
 
 ## ✅ Next Steps
-- 🗂️ * [NVIDIA Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/NVIDIA%20Case%20Study.md).   
+- 🗂️ *[NVIDIA Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/NVIDIA%20Case%20Study.md)
 
 ---
 
