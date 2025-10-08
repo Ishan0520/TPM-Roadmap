@@ -44,7 +44,25 @@ This **Learning Dashboard** is designed to help me build a **comprehensive under
 ---
 
 ## ✅ Next Steps
-- 🗂️ *[NVIDIA Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/NVIDIA%20Case%20Study.md)
+ * [NVIDIA Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/NVIDIA%20Case%20Study.md)
+ * [AMD Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/AMD.md)
+ * [ARM Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/ARM%20Case%20Study.md)
+ * [ASML Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/ASML%20Case%20Study.md)
+ * [Apple Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/Apple%20Case%20Study.md)
+ * [Applied Materials Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/Applied%20Materials%20Case%20Study.md)
+ * [Broadcom Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/Broadcom%20Case%20Study.md)
+ * [Cadence Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/Cadence%20Case%20Study.md)
+ * [Google Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/Google%20Case%20Study.md)
+ * [Intel Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/Intel%20Case%20Study.md)
+ * [Maxwell Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/Maxwell%20Case%20Study.md)
+ * [Micron Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/Micron%20Case%20Study.md)
+ * [Qualcomm Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/Qualcomm%20Case%20Study.md)
+ * [Rivian Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/Rivian%20%26%20Volkswagen.md)
+ * [Samsung Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/Samsung%20Case%20Study.md)
+ * [Siemens Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/Siemens%20Case%20Study.md)
+ * [Synopsys Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/Synopsys%20Case%20Study.md)
+ * [TSMC Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/TSMC%20Case%20Study.md)
+ * [Tesla Case Study](https://github.com/Ishan0520/TPM-Roadmap/blob/main/Tesla%20Case%20Study.md)
 
 ---
 
