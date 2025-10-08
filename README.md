@@ -138,4 +138,5 @@ Breaking down a **complex goal (career transition)** into measurable, trackable,
 ### Quick Links
 Strategic & Technical Foundation
 * [Semiconductor Ecosystem Map](https://github.com/Ishan0520/TPM-Roadmap/blob/main/Semiconductor%20Ecosystem.md)
-* [Technical Deep Dive Analysis: The Chiplet Strategy]
+* [The Core Process: VLSI Design Flow](https://github.com/Ishan0520/TPM-Roadmap/blob/main/The%20Core%20Process%3A%20VLSI%20Design%20Flow.md)
+* [Manufacturing](https://github.com/Ishan0520/TPM-Roadmap/blob/main/semiconductor%20manufacturing.md)
