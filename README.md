@@ -1,5 +1,5 @@
 # TPM-Roadmap
-Aspiring Technical Program Manager | Transforming my career into the semiconductor industry. Currently building a comprehensive TPM portfolio to demonstrate planning, risk management, and cross-functional leadership.
+Aspiring Technical Program Manager | Transforming my career from Tech to Management. Currently building a comprehensive TPM portfolio to demonstrate planning, risk management, and cross-functional leadership.
 ---
 
 ### **🚀 [View the Live Program Dashboard & Portfolio](https://your-username.github.io/Semiconductor-TPM-Portfolio/) 🚀**
