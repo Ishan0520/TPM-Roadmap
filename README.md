@@ -1,8 +1,10 @@
 # TPM-Roadmap
-Aspiring Technical Program Manager | Transforming my career from Tech to Management. Currently building a comprehensive TPM portfolio to demonstrate planning, risk management, and cross-functional leadership.
+Aspiring **Technical Program Manager** | Transforming my career from **Technical to Program Leadership**.  
+Currently building a comprehensive **TPM portfolio** to demonstrate strategy, execution, risk management, and cross-functional leadership.
+
 ---
 
-### **🚀 [View the Live Program Dashboard & Portfolio](https://your-username.github.io/Semiconductor-TPM-Portfolio/) 🚀**
+### **🚀 [View the Live Program Dashboard & Portfolio](https://your-username.github.io/TPM-Roadmap/) 🚀**
 
 ---
 
@@ -17,82 +19,82 @@ Aspiring Technical Program Manager | Transforming my career from Tech to Managem
 
 ## 📖 Project Description  
 This project is a **career transformation initiative** designed to:  
-1. Build expertise in the **semiconductor ecosystem & TPM skillset**.  
-2. Demonstrate TPM competencies by treating this journey like a **real-world project**.  
-3. Deliver a **portfolio artifact** that proves ability to plan, execute, and manage risk.  
+1. Build **domain knowledge across emerging tech sectors** such as advanced manufacturing, automotive, and digital systems.  
+2. Demonstrate **TPM competencies** through structured projects, planning frameworks, and leadership artifacts.  
+3. Deliver a **portfolio artifact** that proves capability in execution strategy, stakeholder alignment, and lifecycle management.  
 
 ---
 
 ## 🎯 Purpose & Justification  
 > ⚡ **Why now?**  
-The semiconductor industry is at the center of innovation. Companies need **TPMs who understand both business + technology**.  
-This roadmap accelerates my transition into a **TPM role within 6–7 months**, while also building a **showcase portfolio** of TPM skills.  
+Technology-driven industries are evolving rapidly — they demand TPMs who can align **business strategy, engineering execution, and innovation scalability**.  
+This roadmap enables a **career transition into TPM roles within 6–7 months**, backed by a portfolio demonstrating tangible leadership and delivery skills.  
 
 ---
 
 ## ✅ Objectives (SMART Goals)  
-- 📘 Build **domain knowledge** in the semiconductor ecosystem by **Sept 2025**.  
-- 📊 Produce **3–4 TPM-style case studies/projects** by **Dec 2025**.  
-- 🤝 Secure **5+ informational interviews & 2+ networking events** by **Jan 2026**.  
-- 💼 Apply to **20 high-fit TPM roles** and target **3+ interviews** by **project close**.  
+- 📘 Build **cross-domain knowledge** by **September 2025** (manufacturing, automation, systems integration).  
+- 📊 Produce **3–4 TPM-style case studies/projects** by **December 2025**.  
+- 🤝 Secure **5+ informational interviews & attend 2+ professional events** by **January 2026**.  
+- 💼 Apply to **20 targeted TPM roles** and aim for **3+ interview opportunities** by project completion.  
 
 ---
 
 ## 📦 Scope  
 **In-Scope:**  
-✔️ Semiconductor ecosystem learning (business models, key players, growth areas)  
-✔️ Building dashboards, roadmaps, case studies  
-✔️ Networking & targeted job applications  
+✔️ Learning key ecosystems and technologies driving modern industries  
+✔️ Developing dashboards, case studies, and visual roadmaps  
+✔️ Networking with professionals and recruiters for TPM insights  
 
 **Out-of-Scope:**  
-❌ Deep technical engineering unrelated to TPM  
-❌ Budget-heavy certifications not directly aligned with TPM transition  
+❌ Purely technical engineering without program-level context  
+❌ High-cost certifications unrelated to TPM transition goals  
 
 ---
 
 ## 👥 Stakeholders & Roles  
 | Role | Name/Group | Responsibility |  
-|------|------------|----------------|  
-| **Sponsor** | Ishan Gupta | Drive project, own outcomes |  
-| **Primary Stakeholders** | Hiring Managers, Recruiters | Consumers of portfolio artifact |  
-| **Advisors/Mentors** | Professors, TPMs, Alumni | Provide feedback & guidance |  
-| **Peers/Collaborators** | NCPMI, SWE, Study Groups | Review & co-learn |  
+|------|-------------|----------------|  
+| **Sponsor** | Ishan Gupta | Drive project, define milestones, and ensure delivery |  
+| **Primary Stakeholders** | Hiring Managers, Recruiters | Evaluate portfolio and professional readiness |  
+| **Advisors/Mentors** | Professors, Industry TPMs, Alumni | Provide strategic and career guidance |  
+| **Peers/Collaborators** | NCPMI, SWE, Study Groups | Review progress, share learning resources |  
 
 ---
 
 ## 📂 Deliverables  
-- 📊 **Learning Dashboard** → Track semiconductor ecosystem knowledge  
-- 🗂️ **Case Studies/Projects** → 3–4 portfolio-ready examples  
-- 📅 **6-Month Gantt Roadmap** → Timeline with milestones  
-- 🤝 **Networking Log** → Events & connections  
-- 🌐 **Final Portfolio Page** → GitHub/LinkedIn ready  
+- 📊 **Learning Dashboard** → Tracks progress across technology and management domains  
+- 🗂️ **Case Studies/Projects** → 3–4 portfolio-ready TPM examples  
+- 📅 **6-Month Gantt Roadmap** → Phase-wise progression visualization  
+- 🤝 **Networking Log** → Track events, interviews, and outreach efforts  
+- 🌐 **Final Portfolio Page** → GitHub + LinkedIn integrated showcase  
 
 ---
 
 ## 🗓️ Timeline  
 
 ![Roadmap](ROADMAP.png)  
-*(embed your Gantt chart image here — e.g., from /assets/ROADMAP.png)*  
+*(Embed your updated Gantt chart image — e.g., from `/assets/ROADMAP.png`)*  
 
 | Phase | Dates | Milestones |  
-|-------|-------|------------|  
-| **Foundation** | Jul – Sep 2025 | Semiconductor learning, dashboard setup, 1st case study |  
+|-------|--------|-------------|  
+| **Foundation** | Jul – Sep 2025 | Ecosystem learning, dashboard setup, 1st case study |  
 | **Application** | Oct – Dec 2025 | Case studies execution, networking, portfolio build |  
-| **Transition** | Jan 2026 | Final portfolio delivery, job applications, interviews |  
+| **Transition** | Jan 2026 | Final portfolio delivery, applications, interviews |  
 
 ---
 
 ## ⚠️ Risks & Mitigation  
-- ⏳ **Time Constraint** → Weekly time-blocking & progress reviews  
-- 📚 **Knowledge Gaps** → Curated resources & dashboard tracking  
-- 🤝 **Networking Dependency** → Start outreach early & use multiple channels  
+- ⏳ **Time Constraint** → Structured weekly time-blocking & milestone tracking  
+- 📚 **Learning Depth** → Dashboard-based tracking and curated learning material  
+- 🤝 **Network Gaps** → Early outreach, mentorship sessions, and event participation  
 
 ---
 
 ## 📊 Success Metrics  
 - 🎓 **Knowledge:** 80%+ modules completed  
-- 📝 **Portfolio:** 3–4 case studies/projects published  
-- 🌐 **Engagement:** 5+ informational interviews, 2+ events attended  
+- 📝 **Portfolio:** 3–4 completed case studies/projects  
+- 🌐 **Engagement:** 5+ informational interviews, 2+ professional events  
 - 💼 **Career:** 20 applications, 3+ interviews secured  
 
 ---
@@ -100,25 +102,25 @@ This roadmap accelerates my transition into a **TPM role within 6–7 months**, 
 ## 🔍 Deep Dives  
 
 <details>
-<summary>🔎 Semiconductor Ecosystem Segments</summary>  
+<summary>📘 Core Focus Areas</summary>  
 
-- **Design (EDA, IP, Fabless)** → Ex: NVIDIA, ARM  
-- **Manufacturing (Foundries)** → Ex: TSMC, Intel Foundry  
-- **Equipment & Materials** → Ex: ASML, Applied Materials  
-- **Assembly & Testing** → Ex: ASE Group  
-- **End Applications** → Automotive, AI, Consumer Electronics  
+- **Systems & Product Lifecycle Management** — Planning, risk tracking, and stage gate reviews  
+- **Technology Integration** — Aligning software, hardware, and operations workflows  
+- **Process Optimization** — Continuous improvement through data and analytics  
+- **Innovation Strategy** — Bridging R&D insights to scalable delivery outcomes  
 
-*Why it matters*: Understanding **end-to-end value chain** helps TPMs connect engineering work with business outcomes.  
+*Why it matters*: Understanding full lifecycle and ecosystem dynamics enables TPMs to anticipate risks, optimize workflows, and lead effective cross-functional delivery.  
 
 </details>  
 
 <details>
 <summary>🛠️ Skills & Tools TPMs Value</summary>  
 
-- **Program Management Tools** → JIRA, Trello, Confluence  
-- **Data & Reporting** → Excel, SQL, visualization tools  
-- **Technical Familiarity** → Basics of semiconductors, systems architecture  
-- **Soft Skills** → Stakeholder management, cross-team leadership  
+- **Program Management** → Jira, Confluence, Notion, Trello  
+- **Data & Reporting** → Excel, Power BI, SQL, Tableau  
+- **Lifecycle Frameworks** → Agile, SAFe, Waterfall, Stage-Gate  
+- **Leadership & Communication** → Stakeholder management, decision alignment, executive updates  
+- **Technical Awareness** → Systems design, integration testing, validation processes  
 
 </details>  
 
@@ -131,8 +133,8 @@ This roadmap accelerates my transition into a **TPM role within 6–7 months**, 
 ---
 
 ### 🌟 Why This Matters  
-This charter is more than a plan — it’s a **case study of TPM thinking**:  
-Breaking down a **complex goal (career transition)** into measurable, trackable, and risk-managed steps.  
+This charter is a blueprint for **strategic career transformation** — combining project discipline, learning agility, and real-world TPM execution.  
+Every artifact in this repository demonstrates how structured program management principles can drive clarity, results, and measurable growth.  
 
 
 ### Quick Links
