@@ -35,8 +35,7 @@ This roadmap enables a **career transition into TPM roles within 6–7 months**,
 ## ✅ Objectives (SMART Goals)  
 - 📘 Build **cross-domain knowledge** by **September 2025** (manufacturing, automation, systems integration).  
 - 📊 Produce **3–4 TPM-style case studies/projects** by **December 2025**.  
-- 🤝 Secure **5+ informational interviews & attend 2+ professional events** by **January 2026**.  
-- 💼 Apply to **20 targeted TPM roles** and aim for **3+ interview opportunities** by project completion.  
+- 💼 Apply to **20 targeted TPM roles** everyday.  
 
 ---
 
