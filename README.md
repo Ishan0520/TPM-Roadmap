@@ -4,7 +4,7 @@ Currently building a comprehensive **TPM portfolio** to demonstrate strategy, ex
 
 ---
 
-### **🚀 [View the Live Program Dashboard & Portfolio](https://your-username.github.io/TPM-Roadmap/) 🚀**
+### **🚀 [View the Live Program Dashboard & Portfolio](https://your-username.github.io/TPM-Roadmap) 🚀**
 
 ---
 
@@ -35,7 +35,7 @@ This roadmap enables a **career transition into TPM roles within 6–7 months**,
 ## ✅ Objectives (SMART Goals)  
 - 📘 Build **cross-domain knowledge** by **September 2025** (manufacturing, automation, systems integration).  
 - 📊 Produce **3–4 TPM-style case studies/projects** by **December 2025**.  
-- 💼 Apply to **20 targeted TPM roles** everyday.  
+- 💼 Apply to **20 targeted TPM roles** everyday from Jan 2026.  
 
 ---
 
@@ -73,7 +73,7 @@ This roadmap enables a **career transition into TPM roles within 6–7 months**,
 ## 🗓️ Timeline  
 
 ![Roadmap](ROADMAP.png)  
-*(Embed your updated Gantt chart image — e.g., from `/assets/ROADMAP.png`)*  
+
 
 | Phase | Dates | Milestones |  
 |-------|--------|-------------|  
@@ -93,8 +93,6 @@ This roadmap enables a **career transition into TPM roles within 6–7 months**,
 ## 📊 Success Metrics  
 - 🎓 **Knowledge:** 80%+ modules completed  
 - 📝 **Portfolio:** 3–4 completed case studies/projects  
-- 🌐 **Engagement:** 5+ informational interviews, 2+ professional events  
-- 💼 **Career:** 20 applications, 3+ interviews secured  
 
 ---
 
