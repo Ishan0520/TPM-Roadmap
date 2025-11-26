@@ -1,0 +1,49 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  margin: 0;
+  background: #f5f6fa;
+  color: #1e3a8a;
+}
+header {
+  background: linear-gradient(90deg, #1e3a8a, #f97316);
+  color: #fff;
+  padding: 2rem 0 1rem;
+  text-align: center;
+}
+nav a {
+  color: white;
+  margin: 0 0.5rem;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.2s;
+}
+nav a:hover { color: #ffe066; }
+.avatar { width: 80px; border-radius: 50%; margin-bottom: 1rem; }
+
+section { padding: 2rem 1rem; max-width: 900px; margin: 0 auto; }
+h2 { color: #f97316; margin-bottom: 1rem; }
+.charter-cards { display: flex; gap: 2rem; justify-content: center; margin-bottom: 1rem; }
+.card { background: white; box-shadow: 0 4px 24px rgba(0,0,0,0.06); border-radius: 7px; padding: 1rem 1.5rem; min-width: 140px; }
+.in-progress { color: #16a34a; font-weight: 600; }
+
+.phases { display: flex; justify-content: space-around; margin-top: 2rem; }
+.phase { padding: 1.5rem; border-radius: 8px; background: #eaf4ff; min-width: 230px; }
+.phase.foundation { border-left: 5px solid #1e3a8a; }
+.phase.application { border-left: 5px solid #f97316; }
+.phase.transition { border-left: 5px solid #16a34a; }
+
+.dashboard-cards { display: flex; gap: 1rem; flex-wrap: wrap; }
+.dashboard-cards .card { flex: 1; min-width: 180px; }
+
+.case-grid { display: flex; gap: 1rem; flex-wrap: wrap; }
+.case-card { background: #fff; border-radius: 10px; box-shadow: 0 2px 10px #eaeaea; padding: 1.2rem 1rem; min-width: 190px; transition: box-shadow 0.15s; }
+.case-card.completed { border-top: 3px solid #16a34a; }
+.case-card.in-progress { border-top: 3px solid #f97316; }
+.case-card.planning { border-top: 3px solid #ffe066; }
+.case-card:hover { box-shadow: 0 8px 24px #d3dcfd; }
+
+.competency-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 1rem; background: #eaf4ff; padding: 1.5rem; border-radius: 8px; }
+.competency-grid strong { font-size: 1.15em; color: #1e3a8a; }
+
+footer { background: #1e3a8a; color: #fff; text-align: center; padding: 1rem 0; position: relative; margin-top: 3rem;}
+#back-to-top { color: #ffe066; display: inline-block; margin-top: 0.5em; text-decoration: underline; }
