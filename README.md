@@ -72,7 +72,7 @@ This roadmap enables a **career transition into TPM roles within 6–7 months**,
 
 ## 🗓️ Timeline  
 
-![Roadmap](ROADMAP.png)  
+![Roadmap](Roadmap.png)  
 
 
 | Phase | Dates | Milestones |  
